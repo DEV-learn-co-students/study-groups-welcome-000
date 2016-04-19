@@ -27,5 +27,6 @@ In general, Study Groups are valuable anytime you’re doing something that woul
 
 ## Going forward
 
-In your Learn journey, you will inevitably encounter obstacles, feel lapses in motivation, need to review a hazy concept, or just want to know you’re not in this alone. At those times, look for existing study groups or create new ones. 
+In your Learn journey, you will inevitably encounter obstacles, feel lapses in motivation, need to review a hazy concept, or just want to know you’re not in this alone. At those times, look for existing study groups or create new ones. The Learn community is in this together. 
+
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/study-groups'>Study Groups</a> on Learn.co and start learning to code for free.</p>
