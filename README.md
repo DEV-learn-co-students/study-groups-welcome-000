@@ -6,7 +6,7 @@ In days past, you may have assembled a group of friends at a library or coffee s
 
 Study groups on Learn offer you a way to do that in the digital world. When a study group begins, we create a private slack channel just for the group and prompt users to join it in Learn. We also place a link to a video chat in the channel so you can see and speak to all the people in your group.
 
-You can both create and join study groups from the right rail on lesson pages, from your dashboard when you login to learn.co, or on the dedicated [study group page](www.learn.co/study-groups) which is accessible on the upper right menu. 
+You can both create and join study groups from the right rail on lesson pages, from your dashboard when you login to learn.co, or on the dedicated [study group page](https://learn.co/study-groups) which is accessible on the upper right menu. 
 
 ![Create from lesson show page](https://curriculum-content.s3.amazonaws.com/intro-to-learn/Lesson_page_create.png)
 
