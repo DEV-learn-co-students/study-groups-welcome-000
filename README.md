@@ -10,6 +10,12 @@ You can both create and join study groups from the right rail on lesson pages, f
 
 ![Create from lesson show page](https://curriculum-content.s3.amazonaws.com/intro-to-learn/Lesson_page_create.png)
 
+![Create from track dashboard](http://curriculum-content.s3.amazonaws.com/intro-to-learn/Track_Dashboard.png)
+
+![Create from Study group show page](http://curriculum-content.s3.amazonaws.com/intro-to-learn/study%20group%20show%20page.png)
+
+
+
 ## When to use it
 
 There are plenty of reasons to create a study group. Here are some that come to mind for us or that we’ve seen your fellow Learners do. You could make a study group to:
